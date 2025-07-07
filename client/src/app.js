@@ -1,5 +1,5 @@
 import React from "react";
-import PostCreate from "./postCreate";
+import PostCreate from "./PostCreate";
 
 const App = () => {
     return <div className="card card-border max-w-1/2 bg-base-100 card-md shadow-sm mx-auto mt-10">
